@@ -1,6 +1,6 @@
 
 
-# SVG Draw App ✍️📐
+# SVGデザイナー ✍️📐
 
 <p align="center">
   <img src="image/app-icon.jpg" width="140" alt="SVG Draw App Icon">
